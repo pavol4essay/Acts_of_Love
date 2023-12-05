@@ -16,4 +16,3 @@ A 12-step workshop focused on acts of love. Join us to experience a journey of h
 
 ## Sign Up
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdOUZKYNkWmgI00q2L0rXRZeBaMqCgz4hMhGTgNY9YjedDtbA/viewform?embedded=true" width="640" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
